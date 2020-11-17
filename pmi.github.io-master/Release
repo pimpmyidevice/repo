@@ -1,0 +1,9 @@
+Origin: PMI's Repo
+Label: PMI's Repo
+Suite: stable
+Version: 1.0
+Codename: PMI
+Architectures: iphoneos-arm
+Components: main
+Description: PMI's Cydia Repository
+Icon: file://CydiaIcon.png
