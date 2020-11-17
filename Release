@@ -1,9 +1,9 @@
-Origin: PMI's Repo
-Label: PMI's Repo
+Origin: Pimp My iDevice
+Label: Pimp My iDevice
 Suite: stable
 Version: 1.0
 Codename: PMI
 Architectures: iphoneos-arm
 Components: main
-Description: PMI's Cydia Repository
+Description: PMI Repo
 Icon: file://CydiaIcon.png
