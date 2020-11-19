@@ -7,7 +7,7 @@ Architecture: iphoneos-arm
 Description: Der einzige Tweak, den ihr für Cydia braucht.
 Maintainer: t0mi
 Section: Tweaks
-MD5sum: 61d4cb97c4248557a9f6672808c16294
-SHA1: 68afa18c9718aa6caa590ea5ea19e77ab9c0daaa
-SHA256: f14870582056795c9575881051244fb9509623c90da10e716f43feaeb6dcf03e
+MD5sum: 4eb6335853d14a06e3e4f316d51f1d17
+SHA1: cbc145c93f9074bed23b7fb2337978a70f50deec
+SHA256: f1ee1a9d4132473995700527ebcc951a4f4238273681ade3cd36148ca69fb229
 
