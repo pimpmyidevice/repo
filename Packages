@@ -4,7 +4,7 @@ Author: t0mi
 Version: 2.0
 Depends: coreutils-bin, coreutils, mobilesubstrate
 Architecture: iphoneos-arm
-Description: Der einzige Tweak, den ihr für Cydia braucht.
+Description: Der einzige Tweak, den ihr fuer Cydia braucht.
 Maintainer: t0mi
 Section: Tweaks
 MD5sum: 4eb6335853d14a06e3e4f316d51f1d17
