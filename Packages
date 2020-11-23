@@ -3,7 +3,7 @@ Name: Cydia ++
 Author: t0mi
 Version: 2.0
 Depends: coreutils-bin, coreutils, mobilesubstrate
-Filename: pmi.cydiaplusplus_2.0_iphoneos-arm.deb
+Filename: ./repo/debs/pmi.cydiaplusplus_2.0_iphoneos-arm.deb
 Architecture: iphoneos-arm
 Description: Der einzige Tweak, den ihr fÃ¼r Cydia braucht.
 Maintainer: t0mi
