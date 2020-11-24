@@ -12,6 +12,35 @@ MD5sum: 4eb6335853d14a06e3e4f316d51f1d17
 SHA1: cbc145c93f9074bed23b7fb2337978a70f50deec
 SHA256: f1ee1a9d4132473995700527ebcc951a4f4238273681ade3cd36148ca69fb229
 
+Package: kr.xsf1re.dkbtan2gobypass
+Name: DKBTAN2goBypass
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Bypass Jailbreak Detection of DKB-TAN2go v2.5.0!
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 104
+Filename: /debs/kr.xsf1re.dkbtan2gobypass_0.0.1_iphoneos-arm.deb
+MD5sum: 96ce7e30f12b9b45343df738d4ab9502
+SHA1: 27074339be3b4f23eaf11c0427ad8e173cb22615
+SHA256: 4d1f3b6f5d97c8a15c091de7e6c5791d6612bb42ff9d4e2bf6022b3ba8fe89e5
+
+Package: kr.xsf1re.pushtanbypass
+Name: PushTanBypass
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Bypass Jailbreak Detection of PushTan!
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Version: 0.0.1
+Filename: /debs/kr.xsf1re.pushtanbypass_0.0.1_iphoneos-arm.deb
+MD5sum: e0e4aec763ac2afa9cb0969e7aa334fa
+SHA1: 68a25ad3eb8e2a5e131f1156f827e71a67009579
+SHA256: 8be53cbbd8b8c1f857f6f08088260df93e0276b273cdf66a31e8596c5fde21a6
+
 Package: kr.xsf1re.sparkassebypass
 Name: SparkasseBypass
 Depends: mobilesubstrate
