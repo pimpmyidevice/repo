@@ -1,16 +1,16 @@
 Package: pmi.cydiaplusplus
 Name: Cydia ++
 Author: t0mi
-Version: 2.0
+Version: 2.1
 Depends: coreutils-bin, coreutils, mobilesubstrate
-Filename: /debs/pmi.cydiaplusplus_2.0_iphoneos-arm.deb
 Architecture: iphoneos-arm
-Description: Der einzige Tweak, den ihr fÃ¼r Cydia braucht.
+Description: Der einzige Tweak, den ihr unter Cydia braucht.
 Maintainer: t0mi
 Section: Tweaks
-MD5sum: 4eb6335853d14a06e3e4f316d51f1d17
-SHA1: cbc145c93f9074bed23b7fb2337978a70f50deec
-SHA256: f1ee1a9d4132473995700527ebcc951a4f4238273681ade3cd36148ca69fb229
+Filename: /debs/pmi.cydiaplusplus_2.1_iphoneos-arm.deb
+MD5sum: 489b119869192371afbc09f16349b537
+SHA1: fdbcb329e1288237b9606bd7074dc9f160152b0a
+SHA256: d8623b2c8e09ac852281fc5eeb8ee217970d04e0c76da10f481380a55a8fad71
 
 Package: kr.xsf1re.dkbtan2gobypass
 Name: DKBTAN2goBypass
@@ -104,17 +104,18 @@ SHA1: 85734b05d70a351137a3d8a268f5951589848091
 SHA256: b6c255da650bc540320f39097b89c27b423a9e48ed8a3beb21b6f87d4baeb576
 
 Package: pmi.sileodeutsch
-Name: Sileo [Deutsche Ãœbersetzung]
-Version: 4.0
+Name: Sileo [Deutsch]
+Version: 4.1
 Section: System
 Depends: org.coolstar.sileo
 Architecture: iphoneos-arm
-Description: Verbesserte deutsche Ãœbersetzung fÃ¼r Sileo. 
+Description: Sileo komplett in deutscher Sprache. 
 Maintainer: t0mi
 Author: t0mi
-Filename: /debs/pmi.sileodeutsch_4.0_iphoneos-arm.deb
-MD5sum: 3d7ec2d0438dd2af2cc3c1b53743bfd5
-SHA1: 08a2850704e08fe9124f4186bc32838b76e51de6
-SHA256: 212dec19b927bbc4ac5bb199f3c667b6d653feff6abfa7085914142128b1f081
+Filename: /debs/pmi.sileodeutsch_4.1_iphoneos-arm.deb
+MD5sum: 07d9b9119a50887ada58e19c1afd7d86
+SHA1: e2d9c36771649af3538aba3640acaddabbd1af9d
+SHA256: 5731da93e52a1835fdaa45004ac319e4ebe48140056fe86bfaa3da5d20ddc83b
+
 
 
