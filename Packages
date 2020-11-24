@@ -12,3 +12,109 @@ MD5sum: 4eb6335853d14a06e3e4f316d51f1d17
 SHA1: cbc145c93f9074bed23b7fb2337978a70f50deec
 SHA256: f1ee1a9d4132473995700527ebcc951a4f4238273681ade3cd36148ca69fb229
 
+Package: kr.xsf1re.dkbtan2gobypass
+Name: DKBTAN2goBypass
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Bypass Jailbreak Detection of DKB-TAN2go v2.5.0!
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 104
+Filename: /debs/pmi.cydiaplusplus_2.0_iphoneos-arm.deb
+MD5sum: 4eb6335853d14a06e3e4f316d51f1d17
+SHA1: cbc145c93f9074bed23b7fb2337978a70f50deec
+SHA256: f1ee1a9d4132473995700527ebcc951a4f4238273681ade3cd36148ca69fb229
+
+Package: kr.xsf1re.pushtanbypass
+Name: PushTanBypass
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Bypass Jailbreak Detection of PushTan!
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Version: 0.0.1
+Filename: /debs/pmi.cydiaplusplus_2.0_iphoneos-arm.deb
+MD5sum: 4eb6335853d14a06e3e4f316d51f1d17
+SHA1: cbc145c93f9074bed23b7fb2337978a70f50deec
+SHA256: f1ee1a9d4132473995700527ebcc951a4f4238273681ade3cd36148ca69fb229
+
+Package: kr.xsf1re.sparkassebypass
+Name: SparkasseBypass
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Bypass Jailbreak Detection of Sparkasse v5.6.0!
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 104
+Filename: /debs/pmi.cydiaplusplus_2.0_iphoneos-arm.deb
+MD5sum: 4eb6335853d14a06e3e4f316d51f1d17
+SHA1: cbc145c93f9074bed23b7fb2337978a70f50deec
+SHA256: f1ee1a9d4132473995700527ebcc951a4f4238273681ade3cd36148ca69fb229
+
+Package: kr.xsf1re.vrbypass
+Section: Tweaks
+Installed-Size: 104
+Maintainer: XsF1re
+Architecture: iphoneos-arm
+Version: 0.0.1
+Depends: mobilesubstrate
+Description: Bypass Jailbreak Detection of VR-Banking v20.13.2 and VR-SecureGo v20.13.0!
+Name: VRBypass
+Author: XsF1re
+Filename: /debs/pmi.cydiaplusplus_2.0_iphoneos-arm.deb
+MD5sum: 4eb6335853d14a06e3e4f316d51f1d17
+SHA1: cbc145c93f9074bed23b7fb2337978a70f50deec
+SHA256: f1ee1a9d4132473995700527ebcc951a4f4238273681ade3cd36148ca69fb229
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
+Architecture: iphoneos-arm
+Description: You can HIDE Doing jailbreak your iDevice.
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+Version: 0.3
+Filename: /debs/pmi.cydiaplusplus_2.0_iphoneos-arm.deb
+MD5sum: 4eb6335853d14a06e3e4f316d51f1d17
+SHA1: cbc145c93f9074bed23b7fb2337978a70f50deec
+SHA256: f1ee1a9d4132473995700527ebcc951a4f4238273681ade3cd36148ca69fb229
+
+Package: kr.xsf1re.flyjbx
+Name: FlyJB X
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader, firmware (>=11.0)
+Conflicts: kr.xsf1re.flyjb
+Architecture: iphoneos-arm
+Description: You can HIDE Doing jailbreak your iDevice.
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+Version: 1.0.0
+Installed-Size: 1244
+Filename: /debs/pmi.cydiaplusplus_2.0_iphoneos-arm.deb
+MD5sum: 4eb6335853d14a06e3e4f316d51f1d17
+SHA1: cbc145c93f9074bed23b7fb2337978a70f50deec
+SHA256: f1ee1a9d4132473995700527ebcc951a4f4238273681ade3cd36148ca69fb229
+
+Package: pmi.sileodeutsch
+Name: Sileo [Deutsche Ãœbersetzung]
+Version: 4.0
+Section: System
+Depends: org.coolstar.sileo
+Architecture: iphoneos-arm
+Description: Verbesserte deutsche Ãœbersetzung fÃ¼r Sileo. 
+Maintainer: t0mi
+Author: t0mi
+Filename: /debs/pmi.sileodeutsch_4.0_iphoneos-arm.deb
+MD5sum: 3d7ec2d0438dd2af2cc3c1b53743bfd5
+SHA1: 08a2850704e08fe9124f4186bc32838b76e51de6
+SHA256: 212dec19b927bbc4ac5bb199f3c667b6d653feff6abfa7085914142128b1f081
+
+
