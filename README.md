@@ -1,1 +1,1 @@
-# repo for pimp my idevice at facebook
+# Repo for Pimp My iDevice at Facebook
