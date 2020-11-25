@@ -126,10 +126,39 @@ Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
 Maintainer: akusio, Misty
 Author: akusio, Misty
 Section: System
-Version: 0.0.3.0.2
+Version: 0.0.3.0.3
 Installed-Size: 384
-Filename: /debs/jp.akusio.kernbypass_0.0.3.0.2_iphoneos-arm.deb
-MD5sum: d5888447a76065e595de797491a4b8ac
-SHA1: a64e667a5878a8195b1d94b75abcad73ec0ee763
-SHA256: 958038b938da38dc3aebf46792a87542cab1b634c9842254649548f1558b2b94
+Filename: /debs/jp.akusio.kernbypass_0.0.3.0.3_iphoneos-arm.deb
+MD5sum: a53ae6710566aae0bea79611e82ad4c1
+SHA1: ba382fc0c3b66f24f372342ae5ae1f7dc56b23a6
+SHA256: 48f8d338bf63c256db99e9067d8337dfed6caff964fe97697f485af82ede96bf
 
+Package: pmi.fiveicondock
+Name: FiveIconDock
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 104
+Author: t0mi
+Maintainer: t0mi
+Description: Five icons for your dock. 
+Filename: /debs/pmi.fiveicondock_1.0_iphoneos-arm.deb
+MD5sum: 59bedefe085acca7884984bf84f682c8
+SHA1: 62425477154375e766f30a9beadef076ed5612c4
+SHA256: 0d724c103db9478b606574b809edc039104812ba31d5028e2d979de2c68de2c9
+
+Package: pmi.cleardock
+Name: ClearDock
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 104
+Author: t0mi
+Maintainer: t0mi
+Description: Hide the dock background
+Filename: /debs/pmi.cleardock_1.0_iphoneos-arm.deb
+MD5sum: 42a6f52b86ed3415a9c1f7349992c4f7
+SHA1: 4daad9163147b18b9339358a61aca32c402e305d
+SHA256: 5d14ed861d1cf7e7218406301e5857a827f59ffb2ef8a6092e70a4d921372c5c
