@@ -117,21 +117,27 @@ MD5sum: 07d9b9119a50887ada58e19c1afd7d86
 SHA1: e2d9c36771649af3538aba3640acaddabbd1af9d
 SHA256: 5731da93e52a1835fdaa45004ac319e4ebe48140056fe86bfaa3da5d20ddc83b
 
-Package: jp.akusio.kernbypass
+Author: akusio
+Maintainer: ichitaso
 Name: KernBypass
-Depends: mobilesubstrate, applist, preferenceloader, Firmware(>=12.0)
+Package: jp.akusio.kernbypass
+Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.apple.memecity
+Section: System
 Architecture: iphoneos-arm
 Description: kernel level jailbreak detection bypass.
-Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
-Maintainer: akusio, Misty
-Author: akusio, Misty
-Section: System
-Version: 0.0.3.0.3
-Installed-Size: 384
-Filename: /debs/jp.akusio.kernbypass_0.0.3.0.3_iphoneos-arm.deb
-MD5sum: a53ae6710566aae0bea79611e82ad4c1
-SHA1: ba382fc0c3b66f24f372342ae5ae1f7dc56b23a6
-SHA256: 48f8d338bf63c256db99e9067d8337dfed6caff964fe97697f485af82ede96bf
+Depiction: https://cydia.ichitaso.com/depiction/kernbypass.html
+Homepage: https://ichitaso.com
+dev: akusio, Misty, ichitaso, XsF1re 
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Icon: file:///Library/PreferenceBundles/KernBypassPrefs.bundle/icon@2x.png
+Version: 0.0.5
+Installed-Size: 920
+Filename: /debs/jp.akusio.kernbypass_0.0.5_iphoneos-arm.deb
+MD5sum: 38614cb796250c15a913d3ea6254f84e
+SHA1: bd3962b280ebab8c4b8ca3afd6bc6b6b306a3413
+SHA256: acaaba11e828696d952f776001dcaf485d27d5e6e3c582f3b1a19ddf4740a23b
 
 Package: pmi.fiveicondock
 Name: FiveIconDock
