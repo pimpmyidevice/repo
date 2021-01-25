@@ -1,17 +1,3 @@
-Package: pmi.cydiaplusplus
-Name: Cydia ++
-Author: t0mi
-Version: 2.1.1
-Depends: coreutils-bin, coreutils, mobilesubstrate
-Architecture: iphoneos-arm
-Description: Der einzige Tweak, den ihr unter Cydia braucht.
-Maintainer: t0mi
-Section: Tweaks
-Filename: /debs/pmi.cydiaplusplus_2.1.1_iphoneos-arm.deb
-MD5sum: 489b119869192371afbc09f16349b537
-SHA1: fdbcb329e1288237b9606bd7074dc9f160152b0a
-SHA256: d8623b2c8e09ac852281fc5eeb8ee217970d04e0c76da10f481380a55a8fad71
-
 Package: kr.xsf1re.dkbtan2gobypass
 Name: DKBTAN2goBypass
 Depends: mobilesubstrate
