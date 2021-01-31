@@ -78,15 +78,15 @@ Package: com.yourepo.ibreak.cydiaquick
 Name: Cydia Quick [DEUTSCH]
 Version: 2.2.0.1
 Architecture: iphoneos-arm
-Description: Cydia Fix åŠ é€Ÿå¯åŠ¨è½½å…¥ä¸ŽåŠ è½½å“åº”ç­‰ãƒ»Cydia Fix accelerates start-up load and load response, etc.
+Description: Cydia Fix accelerates start-up load and load response, etc.
 Author: iBreak <ibreak2019@qq.com>
 Section: Tweaks
 Depends: mobilesubstrate
 Maintainer: iBreak <ibreak2019@qq.com>
 Filename: /debs/com.yourepo.ibreak.cydiaquick_2.2.0.1_iphoneos-arm.deb
-MD5sum: 28f589fcdf01786e494526bdabe8bb71
-SHA1: 3d61fbadbf7b2d57463ffddbdf8328144f25ce5d
-SHA256: 4483285f1c18363ec1d662857ab4aba952cec8002abb60f14373a9ef2d1a1e26
+MD5sum: 0cd7f684a83ffa1603e4e0f484f3f349
+SHA1: 20cce3bd1fdd9b46cd07d0635e3ddad8514ed7fb
+SHA256: 2ba452bcdcf8b1ae287d775f4a07b7aafeb910a345431bf2e6705165770a550f
 
 Package: kr.xsf1re.vnodebypass
 Name: vnodebypass
