@@ -74,22 +74,19 @@ MD5sum: a4e06049aa0494417da81b8a7e68d02c
 SHA1: 4e456da0305e33e763180528b17218305a7049cd
 SHA256: 0f52c6db7761a8e6591af267472728c2c434a66279269391c78e50339e9f2b53
 
-Package: kr.xsf1re.flyjbx
-Name: FlyJB X
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
-Conflicts: kr.xsf1re.flyjb
+Package: com.yourepo.ibreak.cydiaquick
+Name: Cydia Quick [DEUTSCH]
+Version: 2.2.0.1
 Architecture: iphoneos-arm
-Description: You can HIDE Doing jailbreak your iDevice.
-Maintainer: XsF1re
-Author: XsF1re
+Description: Cydia Fix åŠ é€Ÿå¯åŠ¨è½½å…¥ä¸ŽåŠ è½½å“åº”ç­‰ãƒ»Cydia Fix accelerates start-up load and load response, etc.
+Author: iBreak <ibreak2019@qq.com>
 Section: Tweaks
-Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
-Version: 1.0.8
-Installed-Size: 1108
-Filename: /debs/kr.xsf1re.flyjbx_1.0.8_iphoneos-arm.deb
-MD5sum: 695e33ec75dbc915faf8ba982f38ede7
-SHA1: 4bcd3df6ecc2f68747dc3403d88578a9c03b1d93
-SHA256: 1cab3f35937ef5ab41c89ec0773f69b922c5dd6906a13a44091f186d0fca515b
+Depends: mobilesubstrate
+Maintainer: iBreak <ibreak2019@qq.com>
+Filename: /debs/com.yourepo.ibreak.cydiaquick_2.2.0.1_iphoneos-arm.deb
+MD5sum: 28f589fcdf01786e494526bdabe8bb71
+SHA1: 3d61fbadbf7b2d57463ffddbdf8328144f25ce5d
+SHA256: 4483285f1c18363ec1d662857ab4aba952cec8002abb60f14373a9ef2d1a1e26
 
 Package: kr.xsf1re.vnodebypass
 Name: vnodebypass
