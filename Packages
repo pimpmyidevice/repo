@@ -6,12 +6,12 @@ Description: Bypass Jailbreak Detection of DKB-TAN2go v2.5.0!
 Maintainer: XsF1re
 Author: XsF1re
 Section: Tweaks
-Version: 0.0.1
+Version: 0.0.2
 Installed-Size: 104
-Filename: /debs/kr.xsf1re.dkbtan2gobypass_0.0.1_iphoneos-arm.deb
-MD5sum: 96ce7e30f12b9b45343df738d4ab9502
-SHA1: 27074339be3b4f23eaf11c0427ad8e173cb22615
-SHA256: 4d1f3b6f5d97c8a15c091de7e6c5791d6612bb42ff9d4e2bf6022b3ba8fe89e5
+Filename: /debs/kr.xsf1re.dkbtan2gobypass_0.0.2_iphoneos-arm.deb
+MD5sum: b55ece9fab4f29349c3c8cb9cda61813
+SHA1: 07c1e29a2432b489d9dcd8f89e01ac4ca5b9e43f
+SHA256: f107955281a12b27742b6d8029e0ddaac4e67dc78969eb98dce62dccd4f89630
 
 Package: kr.xsf1re.pushtanbypass
 Name: PushTanBypass
@@ -49,15 +49,15 @@ Section: Tweaks
 Installed-Size: 104
 Maintainer: XsF1re
 Architecture: iphoneos-arm
-Version: 0.0.1
+Version: 0.0.2
 Depends: mobilesubstrate
 Description: Bypass Jailbreak Detection of VR-Banking v20.13.2 and VR-SecureGo v20.13.0!
 Name: VRBypass
 Author: XsF1re
-Filename: /debs/kr.xsf1re.vrbypass_0.0.1_iphoneos-arm.deb
-MD5sum: 2b357f77d3b9e9811430a95fcb818da4
-SHA1: c87b6052e70d21f76c4e6cc959a19bcce0da2842
-SHA256: 9b0dbbd3546841a5e5627652fbfde9b8aef57af2b32b515163b139f131cabd9d
+Filename: /debs/kr.xsf1re.vrbypass_0.0.2_iphoneos-arm.deb
+MD5sum: e4b87542af5bc8562bc7c81b4ae5bede
+SHA1: c9f4fa3627cb85c02d618cdcdbae3fb5daac42a4
+SHA256: ecdab2a180ba4e70fe58daeee3177cb26d1ec7d18cd6ae224d1ecd0601b2f380
 
 Package: kr.xsf1re.flyjb
 Name: FlyJB
@@ -125,32 +125,62 @@ MD5sum: 38614cb796250c15a913d3ea6254f84e
 SHA1: bd3962b280ebab8c4b8ca3afd6bc6b6b306a3413
 SHA256: acaaba11e828696d952f776001dcaf485d27d5e6e3c582f3b1a19ddf4740a23b
 
-Package: pmi.fiveicondock
-Name: FiveIconDock
-Version: 1.0
+Package: com.twickd.ubik.oriental
 Section: Tweaks
+Maintainer: ubik <ubik@fwdr.org>
 Architecture: iphoneos-arm
+Version: 1.0.0.1
 Depends: mobilesubstrate
-Installed-Size: 104
-Author: t0mi
-Maintainer: t0mi
-Description: Five icons for your dock. 
-Filename: /debs/pmi.fiveicondock_1.0_iphoneos-arm.deb
-MD5sum: 59bedefe085acca7884984bf84f682c8
-SHA1: 62425477154375e766f30a9beadef076ed5612c4
-SHA256: 0d724c103db9478b606574b809edc039104812ba31d5028e2d979de2c68de2c9
+Description: To rotate or not.
+Name: Oriental
+Author: ubik <ubik@fwdr.org>
+Filename: /debs/com.twickd.ubik.oriental_1.0.0.1_iphoneos-arm.deb
+MD5sum: 00eb96c16cca1ebbd24a9feb8fe0aec0
+SHA1: dd73796f180286a348f234e0f9f9d1a7003dd065
+SHA256: dd6f3a79efd4d62800f806e07038c7a9738d6214f865d731cb68a8757b821ce9
 
-Package: pmi.cleardock
-Name: ClearDock
-Version: 1.0
-Section: Tweaks
+Package: me.nepeta.iconstate
+Name: IconState
+Depends: mobilesubstrate, firmware (>= 9.0)
+Replaces: com.chpwn.iconsupport, com.muirey03.iconsupportfix
+Conflicts: com.chpwn.iconsupport, com.muirey03.iconsupportfix
+Provides: com.chpwn.iconsupport, com.muirey03.iconsupportfix
 Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Installed-Size: 104
+Description: Preserve custom icon layouts between reboots
+Maintainer: Nepeta <ominousness@protonmail.com>
+Author: Nepeta <ominousness@protonmail.com>
+Section: Tweaks
+Version: 0.1.0.1
+Filename: /debs/me.nepeta.iconstate_0.1.0.1_iphoneos-arm.deb
+MD5sum: a6a36ed1d1c9db0e146ce2997529bdbd
+SHA1: 2f4a0df8c4dedcf934e9a84f6b07a12876268f5c
+SHA256: 70fa58aeda2f6cd8cf3ac9e710d4c4af8bb7466b2b68ac3b32fd4e95a2d6df32
+
+Package: pmi.backgrounderaction14
+Name: BackgrounderAction14
+Depends: mobilesubstrate, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: Add "Toggle Background Mode" action to ControlCenter.
+Maintainer: akusio <akusio-report@neko2.net>
+Author: akusio, t0mi <fritsch.weiding@yahoo.de>
+Section: Tweaks
+Version: 1.0
+Installed-Size: 244
+Filename: /debs/pmi.backgrounderaction14_1.0_iphoneos-arm.deb
+MD5sum: 7972adcd59d2c250120901991fd057cb
+SHA1: 3dce984829245951baaf807aee2673bb1f6c5f9a
+SHA256: 1733269a289026c555d673e401d7a9ebbadb1faaa12ef7cc21d8e092fee5de44
+
+Package: pmi.nellalite
+Name: Nella Lite
 Author: t0mi
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Runde Umrandung des Respring-Buttons in Cydia.
 Maintainer: t0mi
-Description: Hide the dock background
-Filename: /debs/pmi.cleardock_1.0_iphoneos-arm.deb
-MD5sum: 42a6f52b86ed3415a9c1f7349992c4f7
-SHA1: 4daad9163147b18b9339358a61aca32c402e305d
-SHA256: 5d14ed861d1cf7e7218406301e5857a827f59ffb2ef8a6092e70a4d921372c5c
+Section: Tweaks
+Filename: /debs/pmi.nellalite_1.0_iphoneos-arm.deb
+MD5sum: 8de6cd16e62a2cbc3a893d027f3cfb85
+SHA1: 7b6d7686aa69a1eea918c964947bccd28748fa65
+SHA256: 3d8c2813553ff2202b69e609414eb9e4c42046eaea3a41e80b86d605dd706262
+
