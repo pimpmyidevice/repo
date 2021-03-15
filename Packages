@@ -199,3 +199,21 @@ MD5sum: 53d23f4b50b8fdba6ef8e42a7ede04bb
 SHA1: d04a660460045782c0991cd72e812da91cbcc82f
 SHA256: 79ecfe0311eb747b8c882a4859034f0aabec60b4b5b3119ca3c3a7922e356b74
 
+Author: AltStore
+Maintainer: ichitaso
+Package: com.rileytestut.AltStore
+Name: AltStore
+Depends: firmware (>= 12.2), com.rileytestut.altdaemon
+Conflicts: com.rileytestut.altstore.alpha.jailbroken
+Replaces: com.rileytestut.AltStore
+Section: Tweaks
+Version: 1.4.4
+Architecture: iphoneos-arm
+Description: Jailbroken version of AltStore with on device signing feauture.
+Tag: compatible::ios12, compatible::ios13, compatible::ios14
+Icon: file:///Applications/AltStore.app/AppIcon60x60@2x.png
+Filename: /debs/com.rileytestut.AltStore_1.4.4_iphoneos-arm.deb
+MD5sum: 5c6eb4bdaaaa9ee9755e5115ecc84ad7
+SHA1: 39d6f34983ec87ceb784f8192e8a39853d581182
+SHA256: 4cd0e688bbcb80242d955785c35a92f6b05724e590a4797262150d872f3f1f4c
+
