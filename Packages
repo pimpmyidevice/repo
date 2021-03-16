@@ -89,20 +89,6 @@ MD5sum: f7a501d82d66c3a2e0a07be7f6efbab2
 SHA1: 4f23c01ded211ecedae1aa1ada68bd84e2a29cf8
 SHA256: 21a89cbf20c807ce8c4f30ff17160997b0b55b828f08184d7ea17a4feb409e3f
 
-Package: pmi.sileodeutsch
-Name: Sileo [Deutsch]
-Version: 4.1
-Section: System
-Depends: org.coolstar.sileo
-Architecture: iphoneos-arm
-Description: Sileo komplett in deutscher Sprache. 
-Maintainer: t0mi
-Author: t0mi
-Filename: /debs/pmi.sileodeutsch_4.1_iphoneos-arm.deb
-MD5sum: 07d9b9119a50887ada58e19c1afd7d86
-SHA1: e2d9c36771649af3538aba3640acaddabbd1af9d
-SHA256: 5731da93e52a1835fdaa45004ac319e4ebe48140056fe86bfaa3da5d20ddc83b
-
 Author: akusio
 Maintainer: ichitaso
 Name: KernBypass
