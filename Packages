@@ -1,182 +1,172 @@
-Package: com.twickd.ubik.oriental
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: ubik <ubik@fwdr.org>
-Depends: mobilesubstrate
-Filename: ./debs/com.twickd.ubik.oriental_1.0.0.1_iphoneos-arm.deb
-Size: 10522
-MD5sum: 00eb96c16cca1ebbd24a9feb8fe0aec0
-SHA1: dd73796f180286a348f234e0f9f9d1a7003dd065
-SHA256: dd6f3a79efd4d62800f806e07038c7a9738d6214f865d731cb68a8757b821ce9
-Section: Tweaks
-Description: To rotate or not.
-Author: ubik <ubik@fwdr.org>
-Name: Oriental
-
-Package: jp.akusio.kernbypass
-Version: 0.0.5
-Architecture: iphoneos-arm
-Maintainer: ichitaso
-Installed-Size: 920
-Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.apple.memecity
-Filename: ./debs/jp.akusio.kernbypass_0.0.5_iphoneos-arm.deb
-Size: 291268
-MD5sum: 38614cb796250c15a913d3ea6254f84e
-SHA1: bd3962b280ebab8c4b8ca3afd6bc6b6b306a3413
-SHA256: acaaba11e828696d952f776001dcaf485d27d5e6e3c582f3b1a19ddf4740a23b
-Section: System
-Homepage: https://ichitaso.com
-Description: kernel level jailbreak detection bypass.
-Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
-Author: akusio
-Depiction: https://cydia.ichitaso.com/depiction/kernbypass.html
-Dev: akusio, Misty, ichitaso, XsF1re
-Icon: file:///Library/PreferenceBundles/KernBypassPrefs.bundle/icon@2x.png
-Name: KernBypass
-
 Package: kr.xsf1re.dkbtan2gobypass
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: XsF1re
-Installed-Size: 104
+Name: DKBTAN2goBypass
 Depends: mobilesubstrate
-Filename: ./debs/kr.xsf1re.dkbtan2gobypass_0.0.2_iphoneos-arm.deb
-Size: 6712
+Architecture: iphoneos-arm
+Description: Bypass Jailbreak Detection of DKB-TAN2go v2.5.0!
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 104
+Filename: /debs/kr.xsf1re.dkbtan2gobypass_0.0.2_iphoneos-arm.deb
 MD5sum: b55ece9fab4f29349c3c8cb9cda61813
 SHA1: 07c1e29a2432b489d9dcd8f89e01ac4ca5b9e43f
 SHA256: f107955281a12b27742b6d8029e0ddaac4e67dc78969eb98dce62dccd4f89630
-Section: Tweaks
-Description: Bypass Jailbreak Detection of DKB-TAN2go v2.5.0!
-Author: XsF1re
-Name: DKBTAN2goBypass
-
-Package: kr.xsf1re.flyjb
-Version: 0.3
-Architecture: iphoneos-arm
-Maintainer: XsF1re
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
-Filename: ./debs/kr.xsf1re.flyjb_0.3_iphoneos-arm.deb
-Size: 826164
-MD5sum: a4e06049aa0494417da81b8a7e68d02c
-SHA1: 4e456da0305e33e763180528b17218305a7049cd
-SHA256: 0f52c6db7761a8e6591af267472728c2c434a66279269391c78e50339e9f2b53
-Section: Tweaks
-Description: You can HIDE Doing jailbreak your iDevice.
-Author: XsF1re
-Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
-Name: FlyJB
 
 Package: kr.xsf1re.pushtanbypass
-Version: 0.1
+Name: PushTanBypass
 Architecture: iphoneos-arm
 Maintainer: XsF1re
-Installed-Size: 72
+Author: XsF1re
+Section: Tweaks
+Description: Bypass jailbreak detection of pushTAN v3.2.1. Run only bypass tweak on that app using Choicy if crash.
+Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/kr.xsf1re.pushtanbypass_0.1_iphoneos-arm.deb
-Size: 3026
+Version: 0.1
+Installed-Size: 72
+Filename: /debs/kr.xsf1re.pushtanbypass_0.1_iphoneos-arm.deb
 MD5sum: a82bdaf8b8787d8096383e83319511fe
 SHA1: b2340325baa25b0dd8135d3ac710ce2255f5295f
 SHA256: 87ab2f46dc0cdaab9d4e5b1c8dd160926f5e536b35bc6a04db49d5085acae94e
-Section: Tweaks
-Description: Bypass jailbreak detection of pushTAN v3.2.1. Run only bypass tweak on that app using Choicy if crash.
-Author: XsF1re
-Name: pushTANBypass
 
 Package: kr.xsf1re.sparkassebypass
-Version: 0.1
+Name: SparkasseBypass
 Architecture: iphoneos-arm
+Description: Bypass jailbreak detection of Sparkasse Ihre mobile Filiale v5.9.1. Run only bypass tweak on that app using Choicy if crash.
 Maintainer: XsF1re
-Installed-Size: 72
+Author: XsF1re
+Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/kr.xsf1re.sparkassebypass_0.1_iphoneos-arm.deb
-Size: 3014
+Version: 0.1
+Installed-Size: 72
+Filename: /debs/kr.xsf1re.sparkassebypass_0.1_iphoneos-arm.deb
 MD5sum: 69731f8e92e9b2dcb14faa8b80dfc322
 SHA1: 391c6a1f418af0fba1c3de79446cdad9b9c8af86
 SHA256: 6e29e73f7d411d65562be2eb224d9924794a99093d5a5ce1941e1d18d09d9279
-Section: Tweaks
-Description: Bypass jailbreak detection of Sparkasse Ihre mobile Filiale v5.9.1. Run only bypass tweak on that app using Choicy if crash.
-Author: XsF1re
-Name: SparkasseBypass
-
-Package: kr.xsf1re.vnodebypass
-Version: 0.2.2
-Architecture: iphoneos-arm
-Maintainer: XsF1re
-Installed-Size: 228
-Filename: ./debs/kr.xsf1re.vnodebypass_0.2.2_iphoneos-arm.deb
-Size: 24668
-MD5sum: f7a501d82d66c3a2e0a07be7f6efbab2
-SHA1: 4f23c01ded211ecedae1aa1ada68bd84e2a29cf8
-SHA256: 21a89cbf20c807ce8c4f30ff17160997b0b55b828f08184d7ea17a4feb409e3f
-Section: System
-Description: An expermental tool to hide jailbreak files for bypass detection.
-Tag: role::hacker
-Author: XsF1re
-Name: vnodebypass
 
 Package: kr.xsf1re.vrbypass
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: XsF1re
+Section: Tweaks
 Installed-Size: 104
+Maintainer: XsF1re
+Architecture: iphoneos-arm
+Version: 0.0.2
 Depends: mobilesubstrate
-Filename: ./debs/kr.xsf1re.vrbypass_0.0.2_iphoneos-arm.deb
-Size: 6774
+Description: Bypass Jailbreak Detection of VR-Banking v20.13.2 and VR-SecureGo v20.13.0!
+Name: VRBypass
+Author: XsF1re
+Filename: /debs/kr.xsf1re.vrbypass_0.0.2_iphoneos-arm.deb
 MD5sum: e4b87542af5bc8562bc7c81b4ae5bede
 SHA1: c9f4fa3627cb85c02d618cdcdbae3fb5daac42a4
 SHA256: ecdab2a180ba4e70fe58daeee3177cb26d1ec7d18cd6ae224d1ecd0601b2f380
-Section: Tweaks
-Description: Bypass Jailbreak Detection of VR-Banking v20.13.2 and VR-SecureGo v20.13.0!
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
+Architecture: iphoneos-arm
+Description: You can HIDE Doing jailbreak your iDevice.
+Maintainer: XsF1re
 Author: XsF1re
-Name: VRBypass
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+Version: 0.3
+Filename: /debs/kr.xsf1re.flyjb_0.3_iphoneos-arm.deb
+MD5sum: a4e06049aa0494417da81b8a7e68d02c
+SHA1: 4e456da0305e33e763180528b17218305a7049cd
+SHA256: 0f52c6db7761a8e6591af267472728c2c434a66279269391c78e50339e9f2b53
+
+Package: kr.xsf1re.vnodebypass
+Name: vnodebypass
+Architecture: iphoneos-arm
+Description: An expermental tool to hide jailbreak files for bypass detection.
+Maintainer: XsF1re
+Author: XsF1re
+Section: System
+Tag: role::hacker
+Version: 0.2.2
+Installed-Size: 228
+Filename: /debs/kr.xsf1re.vnodebypass_0.2.2_iphoneos-arm.deb
+MD5sum: f7a501d82d66c3a2e0a07be7f6efbab2
+SHA1: 4f23c01ded211ecedae1aa1ada68bd84e2a29cf8
+SHA256: 21a89cbf20c807ce8c4f30ff17160997b0b55b828f08184d7ea17a4feb409e3f
+
+Author: akusio
+Maintainer: ichitaso
+Name: KernBypass
+Package: jp.akusio.kernbypass
+Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.apple.memecity
+Section: System
+Architecture: iphoneos-arm
+Description: kernel level jailbreak detection bypass.
+Depiction: https://cydia.ichitaso.com/depiction/kernbypass.html
+Homepage: https://ichitaso.com
+dev: akusio, Misty, ichitaso, XsF1re 
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Icon: file:///Library/PreferenceBundles/KernBypassPrefs.bundle/icon@2x.png
+Version: 0.0.5
+Installed-Size: 920
+Filename: /debs/jp.akusio.kernbypass_0.0.5_iphoneos-arm.deb
+MD5sum: 38614cb796250c15a913d3ea6254f84e
+SHA1: bd3962b280ebab8c4b8ca3afd6bc6b6b306a3413
+SHA256: acaaba11e828696d952f776001dcaf485d27d5e6e3c582f3b1a19ddf4740a23b
+
+Package: com.twickd.ubik.oriental
+Section: Tweaks
+Maintainer: ubik <ubik@fwdr.org>
+Architecture: iphoneos-arm
+Version: 1.0.0.1
+Depends: mobilesubstrate
+Description: To rotate or not.
+Name: Oriental
+Author: ubik <ubik@fwdr.org>
+Filename: /debs/com.twickd.ubik.oriental_1.0.0.1_iphoneos-arm.deb
+MD5sum: 00eb96c16cca1ebbd24a9feb8fe0aec0
+SHA1: dd73796f180286a348f234e0f9f9d1a7003dd065
+SHA256: dd6f3a79efd4d62800f806e07038c7a9738d6214f865d731cb68a8757b821ce9
 
 Package: me.nepeta.iconstate
-Version: 0.1.0.1
-Architecture: iphoneos-arm
-Maintainer: Nepeta <ominousness@protonmail.com>
+Name: IconState
 Depends: mobilesubstrate, firmware (>= 9.0)
-Conflicts: com.chpwn.iconsupport, com.muirey03.iconsupportfix
 Replaces: com.chpwn.iconsupport, com.muirey03.iconsupportfix
+Conflicts: com.chpwn.iconsupport, com.muirey03.iconsupportfix
 Provides: com.chpwn.iconsupport, com.muirey03.iconsupportfix
-Filename: ./debs/me.nepeta.iconstate_0.1.0.1_iphoneos-arm.deb
-Size: 7504
+Architecture: iphoneos-arm
+Description: Preserve custom icon layouts between reboots
+Maintainer: Nepeta <ominousness@protonmail.com>
+Author: Nepeta <ominousness@protonmail.com>
+Section: Tweaks
+Version: 0.1.0.1
+Filename: /debs/me.nepeta.iconstate_0.1.0.1_iphoneos-arm.deb
 MD5sum: a6a36ed1d1c9db0e146ce2997529bdbd
 SHA1: 2f4a0df8c4dedcf934e9a84f6b07a12876268f5c
 SHA256: 70fa58aeda2f6cd8cf3ac9e710d4c4af8bb7466b2b68ac3b32fd4e95a2d6df32
-Section: Tweaks
-Description: Preserve custom icon layouts between reboots
-Author: Nepeta <ominousness@protonmail.com>
-Name: IconState
 
 Package: pmi.backgrounderaction14
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: akusio <akusio-report@neko2.net>
-Installed-Size: 244
+Name: BackgrounderAction14
 Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/pmi.backgrounderaction14_1.0_iphoneos-arm.deb
-Size: 16122
+Architecture: iphoneos-arm
+Description: Add "Toggle Background Mode" action to ControlCenter.
+Maintainer: akusio <akusio-report@neko2.net>
+Author: akusio, t0mi <fritsch.weiding@yahoo.de>
+Section: Tweaks
+Version: 1.0
+Installed-Size: 244
+Filename: /debs/pmi.backgrounderaction14_1.0_iphoneos-arm.deb
 MD5sum: 7972adcd59d2c250120901991fd057cb
 SHA1: 3dce984829245951baaf807aee2673bb1f6c5f9a
 SHA256: 1733269a289026c555d673e401d7a9ebbadb1faaa12ef7cc21d8e092fee5de44
-Section: Tweaks
-Description: Add "Toggle Background Mode" action to ControlCenter.
-Author: akusio, t0mi <fritsch.weiding@yahoo.de>
-Name: BackgrounderAction14
 
 Package: pmi.nellalite
+Name: Nella Lite
+Author: t0mi
 Version: 1.0
 Architecture: iphoneos-arm
+Description: Runde Umrandung des Respring-Buttons in Cydia.
 Maintainer: t0mi
-Filename: ./debs/pmi.nellalite_1.0_iphoneos-arm.deb
-Size: 10374
+Section: Tweaks
+Filename: /debs/pmi.nellalite_1.0_iphoneos-arm.deb
 MD5sum: 8de6cd16e62a2cbc3a893d027f3cfb85
 SHA1: 7b6d7686aa69a1eea918c964947bccd28748fa65
 SHA256: 3d8c2813553ff2202b69e609414eb9e4c42046eaea3a41e80b86d605dd706262
-Section: Tweaks
-Description: Runde Umrandung des Respring-Buttons in Cydia.
-Author: t0mi
-Name: Nella Lite
 
