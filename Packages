@@ -170,18 +170,3 @@ MD5sum: 8de6cd16e62a2cbc3a893d027f3cfb85
 SHA1: 7b6d7686aa69a1eea918c964947bccd28748fa65
 SHA256: 3d8c2813553ff2202b69e609414eb9e4c42046eaea3a41e80b86d605dd706262
 
-Package: com.imokhles.cydiapulldown
-Name: Cydia Pull Down
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: pull down to refresh
-Maintainer: iMokhles
-Author: iMokhles
-Section: Tweaks
-Version: 0.0.1-1+debug
-Installed-Size: 156
-Filename: /debs/com.imokhles.cydiapulldown_0.0.1-1+debug_iphoneos-arm.deb
-MD5sum: 53d23f4b50b8fdba6ef8e42a7ede04bb
-SHA1: d04a660460045782c0991cd72e812da91cbcc82f
-SHA256: 79ecfe0311eb747b8c882a4859034f0aabec60b4b5b3119ca3c3a7922e356b74
-
