@@ -158,20 +158,18 @@ Author: t0mi
 Name: Nella Lite
 
 Package: at.dreamnet.glasklarthd
-Name: Glasklart
 Version: 6.0
-Section: Themes
-Maintainer: dreamnet <webmaster@dreamnet.at>
-Depends: firmware (>=7.0)
-Conflicts: com.modmyi.glasklarthd, com.modmyi.glasklart2, com.planet-iphones.glasklart
 Architecture: iphoneos-arm
-Description: Rethought and remade for retina display.
-Author: Max Rudberg <max@maxrudberg.com>
-Sponsor: dreamnet <https://glasklarthd.dreamnet.at>
-Homepage: https://github.com/glasklart/hd
+Maintainer: dreamnet <webmaster@dreamnet.at>
 Filename: ./debs/at.dreamnet.glasklarthd_6.0_iphoneos-arm
 MD5sum: 6156ecf832bd46f080635eb27e565792
 SHA1: 123df668a63bcba87fd7d82158ab8bdcafa9ffc2
 SHA256: 3324f17046180d0435334ba46a8eb035a688000f56f969154822b26aa1830ab0
-
-
+Section: Themes
+Description: Rethought and remade for retina display.
+Author: Max Rudberg <max@maxrudberg.com>
+Name: Glasklart
+Depends: firmware (>=7.0)
+Conflicts: com.modmyi.glasklarthd, com.modmyi.glasklart2, com.planet-iphones.glasklart
+Sponsor: dreamnet <https://glasklarthd.dreamnet.at>
+Homepage: https://github.com/glasklart/hd
