@@ -157,19 +157,16 @@ Description: Runde Umrandung des Respring-Buttons in Cydia.
 Author: t0mi
 Name: Nella Lite
 
-Package: at.dreamnet.glasklarthd
-Version: 6.0
-Architecture: iphoneos-arm
-Maintainer: dreamnet <webmaster@dreamnet.at>
-Filename: ./debs/at.dreamnet.glasklarthd_6.0_iphoneos-arm
-MD5sum: 6156ecf832bd46f080635eb27e565792
-SHA1: 123df668a63bcba87fd7d82158ab8bdcafa9ffc2
-SHA256: 3324f17046180d0435334ba46a8eb035a688000f56f969154822b26aa1830ab0
-Section: Themes
-Description: Rethought and remade for retina display.
-Author: Max Rudberg <max@maxrudberg.com>
+Package: pmi.glasklart
 Name: Glasklart
-Depends: firmware (>=7.0)
-Conflicts: com.modmyi.glasklarthd, com.modmyi.glasklart2, com.planet-iphones.glasklart
-Sponsor: dreamnet <https://glasklarthd.dreamnet.at>
-Homepage: https://github.com/glasklart/hd
+Version: 2.0
+Section: Themes
+Maintainer: PMI
+Architecture: iphoneos-arm
+Description: Rethought and remade for retina display.
+Author: Max Rudberg
+Filename: ./debs/pmi.glasklart_2.0_iphoneos-arm
+MD5sum: 964b2011d98f511c075a9fa246ad6635
+SHA1: c130d818ad450395c60431be8681a8196864bace
+SHA256: 4d6d2d99cf93dd4b8bf67f000499c9cac7e6b4a9a561fd50ba4f34bbdd4c87b5
+
