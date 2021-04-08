@@ -77,22 +77,6 @@ Description: Bypass jailbreak detection of Sparkasse Ihre mobile Filiale v5.9.1.
 Author: XsF1re
 Name: SparkasseBypass
 
-Package: kr.xsf1re.vnodebypass
-Version: 0.2.2
-Architecture: iphoneos-arm
-Maintainer: XsF1re
-Installed-Size: 228
-Filename: ./debs/kr.xsf1re.vnodebypass_0.2.2_iphoneos-arm.deb
-Size: 24668
-MD5sum: f7a501d82d66c3a2e0a07be7f6efbab2
-SHA1: 4f23c01ded211ecedae1aa1ada68bd84e2a29cf8
-SHA256: 21a89cbf20c807ce8c4f30ff17160997b0b55b828f08184d7ea17a4feb409e3f
-Section: System
-Description: An expermental tool to hide jailbreak files for bypass detection.
-Tag: role::hacker
-Author: XsF1re
-Name: vnodebypass
-
 Package: kr.xsf1re.vrbypass
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -143,6 +127,20 @@ Description: Add "Toggle Background Mode" action to ControlCenter.
 Author: akusio, t0mi <fritsch.weiding@yahoo.de>
 Name: BackgrounderAction14
 
+Package: pmi.glasklart
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: PMI
+Filename: ./debs/pmi.glasklart_2.0_iphoneos-arm.deb
+Size: 81336950
+MD5sum: 964b2011d98f511c075a9fa246ad6635
+SHA1: c130d818ad450395c60431be8681a8196864bace
+SHA256: 4d6d2d99cf93dd4b8bf67f000499c9cac7e6b4a9a561fd50ba4f34bbdd4c87b5
+Section: Themes
+Description: Rethought and remade for retina display.
+Author: Max Rudberg
+Name: Glasklart
+
 Package: pmi.nellalite
 Version: 1.0
 Architecture: iphoneos-arm
@@ -156,17 +154,4 @@ Section: Tweaks
 Description: Runde Umrandung des Respring-Buttons in Cydia.
 Author: t0mi
 Name: Nella Lite
-
-Package: pmi.glasklart
-Name: Glasklart
-Version: 2.0
-Section: Themes
-Maintainer: PMI
-Architecture: iphoneos-arm
-Description: Rethought and remade for retina display.
-Author: Max Rudberg
-Filename: ./debs/pmi.glasklart_2.0_iphoneos-arm
-MD5sum: 964b2011d98f511c075a9fa246ad6635
-SHA1: c130d818ad450395c60431be8681a8196864bace
-SHA256: 4d6d2d99cf93dd4b8bf67f000499c9cac7e6b4a9a561fd50ba4f34bbdd4c87b5
 
