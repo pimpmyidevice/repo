@@ -156,7 +156,7 @@ Author: t0mi
 Name: Nella Lite
 
 Package: pmi.gridiculous
-Depends: mobilesubstrate, com.ichitaso.iconanus (>= 1.0.3) | firmware (>= 13.0)
+Depends: mobilesubstrate, com.ichitaso.iconanus(>> 1.0.2)
 Architecture: iphoneos-arm
 Description: Icons Anywhere? That's Gridiculous
 Maintainer: PMI
@@ -165,8 +165,8 @@ Section: Tweaks
 Version: 2.0
 Conflicts: com.cpddr.gridiculous13, com.ryannair05.gridiculousfix, com.cpdigitaldarkroom.gridiculous
 Filename: ./debs/pmi.gridiculous_2.0_iphoneos-arm.deb
-MD5sum: f0a74a9b9e439810186e4c012ecba9d4
-SHA1: 4ea8789c83ee842b12a3bf02c6884c5479fccf8d
-SHA256: ec63bfbc45e46581f6b5ea43d8f4b99d9d7d749c3a004313872c9eef1777860c
+MD5sum: 5412a69bdb476e59c44f191f13fc2299
+SHA1: 005b0414d18ffeee00bcbd9d8c205cbe22ab65ef
+SHA256: 64ec071ac50919569704715911287cb6d34d5b3e9f950bf30dfa682518fd2598
 Name: gridiculous
 
