@@ -164,7 +164,6 @@ Author: CPDD, PMI
 Section: Tweaks
 Version: 2.0
 Conflicts: com.cpddr.gridiculous13, com.ryannair05.gridiculousfix, com.cpdigitaldarkroom.gridiculous
-Size: 26
 Filename: ./debs/pmi.gridiculous_2.0_iphoneos-arm.deb
 MD5sum: 5412a69bdb476e59c44f191f13fc2299
 SHA1: 005b0414d18ffeee00bcbd9d8c205cbe22ab65ef
