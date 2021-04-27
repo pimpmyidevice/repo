@@ -170,3 +170,18 @@ SHA1: 85c3d4d874b72ac0dbe00dee64c50665f7a13e85
 SHA256: d5223e31b4c79c884e87dd156da62b8da6159204dde8bc20d4dcbd8939ad4369
 Name: gridiculous
 
+Package: com.spark.snowboard.ui
+Name: SnowBoard UI Extension
+Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
+Architecture: iphoneos-arm
+Description: UI Extension for SnowBoard
+Maintainer: Spark
+Author: Spark
+Section: SnowBoard Extensions
+Version: 1.0.63~Beta3
+Installed-Size: 476
+Filename: ./debs/com.spark.snowboard.ui_1.0.63Beta3_iphoneos-arm.deb
+MD5sum: 472114ef11a81e9901f3d07f836dbf45
+SHA1: 87bf0295f5cd17bc7e2c587c5533126e4a8294aa
+SHA256: 4b41cf8c74f4a3d09324081b0882b37944ad776b8d058e06f98e23089e896a27
+
