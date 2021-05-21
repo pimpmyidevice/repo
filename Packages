@@ -178,12 +178,12 @@ Description: UI Extension for SnowBoard
 Maintainer: Spark
 Author: Spark
 Section: SnowBoard Extensions
-Version: 1.0.63~Beta3
+Version: 1.0.64~Beta3
 Installed-Size: 476
-Filename: ./debs/com.spark.snowboard.ui_1.0.63Beta3_iphoneos-arm.deb
-MD5sum: 472114ef11a81e9901f3d07f836dbf45
-SHA1: 87bf0295f5cd17bc7e2c587c5533126e4a8294aa
-SHA256: 4b41cf8c74f4a3d09324081b0882b37944ad776b8d058e06f98e23089e896a27
+Filename: ./debs/com.spark.snowboard.ui_1.0.64Beta3_iphoneos-arm.deb
+MD5sum: e2aa334da58a51450c5cc9cdb743a716
+SHA1: 134d9408e224bc12cba0b1e70d8821aafed8404f
+SHA256: f56c89dcde787933530342de56798a01d43a868a325f4b7f6bd1da247b621986
 
 Architecture: iphoneos-arm
 Package: com.mtac.lynxtwo.localizations
