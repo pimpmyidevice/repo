@@ -170,39 +170,5 @@ SHA1: 85c3d4d874b72ac0dbe00dee64c50665f7a13e85
 SHA256: d5223e31b4c79c884e87dd156da62b8da6159204dde8bc20d4dcbd8939ad4369
 Name: gridiculous
 
-Package: com.spark.snowboard.ui
-Name: SnowBoard UI Extension
-Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
-Architecture: iphoneos-arm
-Description: UI Extension for SnowBoard
-Maintainer: Spark
-Author: Spark
-Section: SnowBoard Extensions
-Version: 1.0.64~Beta3
-Installed-Size: 476
-Filename: ./debs/com.spark.snowboard.ui_1.0.64Beta3_iphoneos-arm.deb
-MD5sum: e2aa334da58a51450c5cc9cdb743a716
-SHA1: 134d9408e224bc12cba0b1e70d8821aafed8404f
-SHA256: f56c89dcde787933530342de56798a01d43a868a325f4b7f6bd1da247b621986
 
-Architecture: iphoneos-arm
-Package: com.mtac.lynxtwo.localizations
-Name: Lynx 2 Localizations
-Version: 1.0.2.0.5
-Depiction: https://mtac.app/repo/depiction/web/com.mtac.lynxtwo.localizations.html
-SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxtwo.localizations.json
-ModernDepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxtwo.localizations.json
-Icon: https://mtac.app/repo/assets/com.mtac.lynxtwo.localizations/icon.png
-Description: Language support for Lynx 2 tweak
-Section: Tweaks
-Depends: firmware (>=14.0), firmware (>= 14.0), preferenceloader, com.twickd.mtac.lynx-2
-Tags: compatible_min::ios14.0, compatible_max::ios14.5
-Author: MTAC <mtac@mtac.app>
-Maintainer: MTAC <mtac@mtac.app>
-Tag: role::enduser
-SomeOtherEntryToControl: True
-Filename: ./debs/com.mtac.lynxtwo.localizations_1.0.2.0.5_iphoneos-arm.deb
-MD5sum: 2d9958e971a6011f4c0bb519219d668b
-SHA1: 2484db4a3d1c81f4794821cdceda5e7e7f9e4997
-SHA256: e6e59b8216dca08963ae553e914423cd28b9e56a0accb53affcd53c879cd6e61
 
